@@ -1,0 +1,6 @@
+c:\users\samson\documents\visual studio 2015\Projects\ImageFilter\ImageFilter\bin\Debug\ImageFilter.exe.config
+c:\users\samson\documents\visual studio 2015\Projects\ImageFilter\ImageFilter\bin\Debug\ImageFilter.exe
+c:\users\samson\documents\visual studio 2015\Projects\ImageFilter\ImageFilter\bin\Debug\ImageFilter.pdb
+c:\users\samson\documents\visual studio 2015\Projects\ImageFilter\ImageFilter\obj\Debug\ImageFilter.csprojResolveAssemblyReference.cache
+c:\users\samson\documents\visual studio 2015\Projects\ImageFilter\ImageFilter\obj\Debug\ImageFilter.exe
+c:\users\samson\documents\visual studio 2015\Projects\ImageFilter\ImageFilter\obj\Debug\ImageFilter.pdb
